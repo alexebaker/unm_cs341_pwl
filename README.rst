@@ -1,9 +1,11 @@
-CS 341 Assignment 1
-===================
+CS 341 Assignment 1 - pwl
+=========================
 
-Author: Alex Baker
-email: alexebaker@unm.edu
-unm id: 101372834
+::
+
+    Author: Alex Baker
+    email: alexebaker@unm.edu
+    unm id: 101372834
 
 This assignment consits of three files:
 
@@ -12,23 +14,22 @@ This assignment consits of three files:
     * pwl.h
     * pwl.c
 
-All structs and function definitions can be found in pwl.h.
-All writen code can be found in pwl.c.
+All structs and function definitions can be found in pwl.h. All writen code can be found in pwl.c.
 
 compile code:
 
-.. codeblock:: bash
+.. code-block:: bash
 
     make
 
 run code:
 
-.. codeblock:: bash
+.. code-block:: bash
 
     ./pwl some_file
 
 remove binaries from folder:
 
-.. codeblock:: bash
+.. code-block:: bash
 
     make clean
