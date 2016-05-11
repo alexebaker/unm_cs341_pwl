@@ -1,0 +1,9 @@
+This is a small sample text file.
+It only has one (1) paragraph.
+If you run the 'wc' command line tool on it,
+it will tell you how many lines, words, and characters are contained within the
+file.
+A word can be delimited by   several   spaces, or even a	tab
+or two.		  		     			 		   
+Tabs or spaces are only characters, and multiple consecutive tabs and spaces should
+be considered as O N E delimiter.
